@@ -5,3 +5,4 @@ data-*
 sandbox.ipynb
 showyourwork
 .ipynb_checkpoints
+.DS_Store
